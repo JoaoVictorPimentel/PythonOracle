@@ -5,10 +5,10 @@ Trabalho feito para a conclusão das matérias: Banco de dados e laboratório de
 * Desenvolver um programa utilizando a linguagem python em conjunto com o banco de dados Oracle.
 
 # Meu projeto
-Desenvolvi um estoque de aparelhos celulares, que é utilizado diretamente do terminal. 
+Desenvolvi um estoque de aparelhos celulares, que é utilizado diretamente pelo terminal. 
 
 * Funções:
-- Registrar um aparelho
-- Deletar um aparelho
-- Alterar um dado
-- Filtrar os aparelhos registrados 
+Registrar um aparelho
+Deletar um aparelho
+Alterar um dado
+Filtrar os aparelhos registrados 
