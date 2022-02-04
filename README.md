@@ -8,7 +8,7 @@ Trabalho feito para a conclusão das matérias: Banco de dados e laboratório de
 Desenvolvi um estoque de aparelhos celulares, que é utilizado diretamente pelo terminal. 
 
 * Funções:
-Registrar um aparelho
-Deletar um aparelho
-Alterar um dado
-Filtrar os aparelhos registrados 
+Registrar um aparelho <br />
+Deletar um aparelho <br />
+Alterar um dado <br />
+Filtrar os aparelhos registrados <br />
